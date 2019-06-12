@@ -1,5 +1,5 @@
 # fast_scnn
-fast_scnn object detection
+#### Real-time semantic segmentation model on high resolution image data
 
 https://arxiv.org/abs/1902.04502
 
