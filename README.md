@@ -32,4 +32,4 @@ Feature Fusion
 Validation results from fast_scnn, compared with input image and ground truth
 
 
-![Diagram](picture 1.png)
+![Diagram](picture%201.png)
