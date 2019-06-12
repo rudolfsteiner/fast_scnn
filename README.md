@@ -14,19 +14,19 @@ Global Feature Extractor
 Feature Fusion
 Classifier
 
-![Diagram](table1.png)
+![Diagram](table%201.png)
 
 
 Bottleneck residual block
 
-![Diagram](table 2.png)
+![Diagram](table%202.png)
 
 
 Feature Fusion
 
 ![Diagram](Fast-SCNN_network.png)
 
-![Diagram](table3.png)
+![Diagram](table%203.png)
 
 
 Validation results from fast_scnn, compared with input image and ground truth
